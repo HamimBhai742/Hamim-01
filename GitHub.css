@@ -7,3 +7,11 @@
     text-align: center;
     text-shadow: 6px;
 }
+span{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+.P1{
+    font-size: 20px;
+}
